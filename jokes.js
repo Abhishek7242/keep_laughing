@@ -1867,6 +1867,6 @@ Baby kill me….
 
 ]
 
-        console.log(document.getElementById('jokesbox').innerHTML = array[118])
+        console.log(document.getElementById('jokesbox').innerHTML = array[a])
 
 }
