@@ -1,0 +1,32 @@
+.container{
+    top: 120px;
+    flex-direction: column;
+    align-content: flex-start;
+    position: absolute;
+    justify-content: space-between;
+    height: 420px;
+}
+body{
+    height: 800px;
+}
+#home::before{
+    background-image: none;
+    height: 800px;
+    /* opacity: 0.9; */
+    background: url('back1.jpg') no-repeat center center/cover;
+}
+
+
+element.style {
+}
+#playbtn {
+    margin-top: 22px;
+    margin-left: 0px;
+
+
+}
+#jokesbox{
+    margin: 0;
+    width: 270px;
+    height: 341px;
+}

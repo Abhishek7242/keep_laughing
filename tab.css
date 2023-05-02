@@ -1,0 +1,33 @@
+.container{
+    top: 120px;
+    flex-direction: column;
+    align-content: flex-start;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 420px;
+}
+body{
+    height: 800px;
+}
+#home::before{
+    background-image: none;
+    height: 922px;
+    /* opacity: 0.9; */
+    background: url('jokesbackground\ -\ Copy.jpg') no-repeat center center/cover;
+}
+
+
+element.style {
+}
+#playbtn {
+    /* margin-top: 22px; */
+    margin-left: 155px;
+
+
+}
+#jokesbox{
+    margin: 22px;
+    width: 380px;
+    height:280px;
+}
