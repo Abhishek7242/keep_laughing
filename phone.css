@@ -4,7 +4,7 @@
     align-content: flex-start;
     position: absolute;
     justify-content: space-between;
-/*     height: 420px; */
+    height: 500px;
 }
 body{
     height: 800px;
