@@ -1,5 +1,5 @@
 .container{
-    top: 252px;
+    top: 242px;
     flex-direction: column;
     align-content: flex-start;
     position: absolute;
@@ -28,5 +28,5 @@ element.style {
 #jokesbox{
     margin: 0;
     width: 270px;
-    height: 341px;
+    height: 410px;
 }
