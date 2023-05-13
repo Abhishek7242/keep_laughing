@@ -5,6 +5,8 @@ function jokesFunction() {
         let a = Math.floor(Math.random() * 100)
         console.log(a)
         document.getElementById('jokesbox').style.background = 'yellow'
+                document.getElementById('playbtn').innerText = 'Tell me a new Joke'
+
         let array = [
                 // 1
                 'टीचर- इतने दिन कहां थे,स्कूल क्यों नहीं आए?<br> गोलू- बर्ड फ्लू हो गया था मैम।<br> टीचर- पर ये तो पक्षियों को होता है इंसानों को नहीं।<br> गोलू- इंसान समझा ही कहां आपने...रोज तो मुर्गा बना देती हो..!!',
